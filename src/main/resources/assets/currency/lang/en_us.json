@@ -1,0 +1,16 @@
+{
+"item.currency.wallet" : "Wallet",
+"item.currency.shopping_list": "Shopping List",
+"item.currency.linking_card" : "Controller Linker",
+"item.currency.penny": "Penny",
+"item.currency.nickel": "Nickel",
+"item.currency.dime": "Dime",
+"item.currency.quarter": "Quarter",
+"item.currency.dollar_bill": "Dollar Bill",
+"item.currency.five_dollar_bill": "5 Dollar Bill",
+"item.currency.ten_dollar_bill": "10 Dollar Bill",
+"item.currency.twenty_dollar_bill": "20 Dollar Bill",
+"item.currency.fifty_dollar_bill": "50 Dollar Bill",
+"item.currency.hundred_dollar_bill": "100 Dollar Bill",
+"itemGroup.never_enough_currency_2": "Never Enough Currency 2"
+}
